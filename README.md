@@ -1,6 +1,6 @@
 # Hi there, I'm Bryan Brown! 👋
 
-![Header](./banner)
+![Header](./banner.png)
 
 ## About Me 🚀
 
