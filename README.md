@@ -9,7 +9,7 @@ I'm a passionate Cybersecurity Enthusiast with a growing foundation in technolog
 - 🌱 Currently learning: Google Cybersecurity Certificate, ISC2 Certified in Cybersecurity (CC), Bash scripting, network fundamentals, and security best practices
 - 🔭 Working on: Labs and hands-on projects in cybersecurity, improving Python scripting and SQL for threat detection and automation
 - 🌍 Languages: SQL, Python (basic scripting), Bash (beginner), English, Spanish
-- 📫 How to reach me: connect with me on LinkedIn: <a href="https://www.linkedin.com/in/bryanbrown30/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- 📫 How to reach me:<a href="https://www.linkedin.com/in/bryanbrown30/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - ⚡ Fun fact: I approach cybersecurity like solving puzzles—focused, curious, and always ready to outsmart the challenge.
 
 
