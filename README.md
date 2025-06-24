@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Cybersecurity Enthusiast with a growing foundation in technology and security principles. As I begin my journey in this field, I'm eager to learn, solve complex challenges, and collaborate with others to build safe and innovative digital solutions. I'm continuously expanding my skills and excited about contributing to the ever-evolving world of cybersecurity.
 
 - 🌱 Currently learning: **[new technologies or skills you're currently learning]**
 - 🔭 Working on: **[current projects or side-projects]**
