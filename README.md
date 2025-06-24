@@ -6,11 +6,12 @@
 
 I'm a passionate Cybersecurity Enthusiast with a growing foundation in technology and security principles. As I begin my journey in this field, I'm eager to learn, solve complex challenges, and collaborate with others to build safe and innovative digital solutions. I'm continuously expanding my skills and excited about contributing to the ever-evolving world of cybersecurity.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+🌱 Currently learning: Google Cybersecurity Certificate, ISC2 Certified in Cybersecurity (CC), Bash scripting, network fundamentals, and security best practices
+🔭 Working on: Labs and hands-on projects in cybersecurity, improving Python scripting and SQL for threat detection and automation
+🌍 Languages: SQL, Python (basic scripting), Bash (beginner), English, Spanish
+📫 How to reach me: connect with me on LinkedIn: https://www.linkedin.com/in/bryanbrown30/
+⚡ Fun fact: I approach cybersecurity like solving puzzles—focused, curious, and always ready to outsmart the challenge.
+
 
 ## My Skills 🧠
 
