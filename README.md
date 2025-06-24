@@ -1,6 +1,6 @@
 # Hi there, I'm Bryan Brown! 👋
 
-![Image](D:\Cybersecurity\Github Account\banner)
+![Image](banner)
 
 ## About Me 🚀
 
