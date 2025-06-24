@@ -11,7 +11,8 @@ I'm a passionate Cybersecurity Enthusiast with a growing foundation in technolog
 - 🌍 Languages: SQL, Python (basic scripting), Bash (beginner), English, Spanish
 - ⚡ Fun fact: I approach cybersecurity like solving puzzles—focused, curious, and always ready to outsmart the challenge.
 - 📫 How to reach me:
-      <a href="https://www.linkedin.com/in/bryanbrown30/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+  <a href="https://www.linkedin.com/in/bryanbrown30/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 ## My Skills 🧠
