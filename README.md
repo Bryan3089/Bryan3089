@@ -26,8 +26,7 @@ I'm a passionate Cybersecurity Enthusiast with a growing foundation in technolog
 
 ## Featured Projects 💻
 
-### [Bash Countdown Time]
-https://github.com/Bryan3089/Bash-Countdown-Timer.git
+### Bash Countdown Time https://github.com/Bryan3089/Bash-Countdown-Timer.git
 
 
 
